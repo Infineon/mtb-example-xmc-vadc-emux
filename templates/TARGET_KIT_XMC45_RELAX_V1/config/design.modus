@@ -288,7 +288,7 @@
                         <Param id="StandardReceiveBufferEventSRSel" value="0"/>
                         <Param id="ReceiveBufferErrorEvent" value="false"/>
                         <Param id="ReceiveBufferErrorEventSRSel" value="0"/>
-                        <Param id="ShowSystemRelatedOutputs" value="false"/>
+                        <Param id="ShowSystemRelatedConnections" value="false"/>
                         <Param id="StartAfterInit" value="true"/>
                         <Param id="inFlash" value="true"/>
                     </Personality>
@@ -695,7 +695,7 @@
                         <Param id="group_other_mux_channel_id_5" value="false"/>
                         <Param id="group_other_mux_channel_id_6" value="false"/>
                         <Param id="group_other_mux_channel_id_7" value="false"/>
-                        <Param id="group_other_mux_start_id" value="8"/>
+                        <Param id="group_other_mux_start_id" value="7"/>
                         <Param id="group_other_mux_coding_id" value="BINARY"/>
                         <Param id="group_other_mux_sample_time_id" value="1"/>
                         <Param id="inFlash" value="true"/>

@@ -231,7 +231,8 @@ Document title: *CE239241* - *XMC&trade; MCU: VADC EMUX*
 
  Version | Description of change 
  ------- | --------------------- 
- 1.0.0   | New code example      
+ 1.0.0   | New code example  
+ 1.1.0   | Updated design.modus file for KIT_XMC45_RELAX_V1 BSP    
  
 <br>
 
@@ -239,7 +240,7 @@ Document title: *CE239241* - *XMC&trade; MCU: VADC EMUX*
 
 All other trademarks or registered trademarks referenced herein are the property of their respective owners.
 
-© 2023 Infineon Technologies AG
+© 2023-2024 Infineon Technologies AG
 
 All Rights Reserved.
 
